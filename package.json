@@ -1,0 +1,18 @@
+{
+  "name": "Kral CHAT Discord",
+  "version": "0.0.3",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Fatih",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.3.2",
+    "moment": "^2.19.1",
+    "moment-duration-format": "^1.3.0",
+    "ms": "^2.0.0"
+  }
+}
